@@ -1,0 +1,136 @@
+{
+  "version": 1,
+  "base_track": "Outta Sight",
+  "base_artist": "ONE OK ROCK",
+  "createdAt": "2025-12-05T03:00:54.392286Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Outta Sight",
+      "artist": "Osborne",
+      "has_synced": false,
+      "path": "select/01_Outta_Sight_Osborne.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Outta Sight",
+      "artist": "Bananarama",
+      "has_synced": false,
+      "path": "select/02_Outta_Sight_Bananarama.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Outta Sight",
+      "artist": "Chromeo",
+      "has_synced": true,
+      "path": "select/03_Outta_Sight_Chromeo.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Outta Sight",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/04_Outta_Sight_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Outta Mind (Outta Sight)",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/05_Outta_Mind_(Outta_Sight)_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Outta Sight",
+      "artist": "ONE OK ROCK",
+      "has_synced": true,
+      "path": "select/06_Outta_Sight_ONE_OK_ROCK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Outta Sight Outta Mind",
+      "artist": "Gunna",
+      "has_synced": true,
+      "path": "select/07_Outta_Sight_Outta_Mind_Gunna.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Outta Sight / Dark Lavender - Interlude",
+      "artist": "DRAM",
+      "has_synced": false,
+      "path": "select/08_Outta_Sight___Dark_Lavender_-_Interlude_DRAM.txt"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Outta Sight / Dark Lavender Interlude",
+      "artist": "D.R.A.M.",
+      "has_synced": false,
+      "path": "select/09_Outta_Sight___Dark_Lavender_Interlude_D.R.A.M..txt"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "Outta Sight / Dark Lavender Interlude",
+      "artist": "Shelley FKA DRAM",
+      "has_synced": false,
+      "path": "select/10_Outta_Sight___Dark_Lavender_Interlude_Shelley_FKA_DRAM.txt"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Outta Mind (Outta Sight) [Live at the Boulder Theater, Boulder, CO 11/1/99]",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/11_Outta_Mind_(Outta_Sight)_[Live_at_the_Boulder_Theater,_Boulder,_CO_11_1_99]_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Outta Sight (Outta Mind)",
+      "artist": "Fleurie",
+      "has_synced": true,
+      "path": "select/12_Outta_Sight_(Outta_Mind)_Fleurie.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Outta Mind (Outta Sight) (live at the Boulder Theater, Boulder, CO 11/1/99)",
+      "artist": "Wilco",
+      "has_synced": true,
+      "path": "select/13_Outta_Mind_(Outta_Sight)_(live_at_the_Boulder_Theater,_Boulder,_CO_11_1_99)_Wilco.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Outta Mind (Outta Sight) - 2017 Remaster",
+      "artist": "Wilco",
+      "has_synced": false,
+      "path": "select/14_Outta_Mind_(Outta_Sight)_-_2017_Remaster_Wilco.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Outta Sight / Dark Lavender (Interlude)",
+      "artist": "Dram",
+      "has_synced": false,
+      "path": "select/15_Outta_Sight___Dark_Lavender_(Interlude)_Dram.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Outta Sight",
+      "artist": "ONE OK ROCK",
+      "has_synced": false,
+      "path": "select/pl_01_Outta_Sight_ONE_OK_ROCK.txt"
+    }
+  ]
+}
